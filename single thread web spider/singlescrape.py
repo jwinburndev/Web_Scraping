@@ -1,5 +1,5 @@
 #Christopher Reeves Web Scraping Tutorial
-#getting page source with python
+#single threaded implimentation of a web spider
 #http://youtube.com/creeveshft
 #http://christopherreevesofficial.com
 #http://twitter.com/cjreeves2011
